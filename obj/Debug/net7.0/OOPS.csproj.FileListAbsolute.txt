@@ -1,0 +1,15 @@
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\bin\Debug\net7.0\OOPS.exe
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\bin\Debug\net7.0\OOPS.deps.json
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\bin\Debug\net7.0\OOPS.runtimeconfig.json
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\bin\Debug\net7.0\OOPS.dll
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\bin\Debug\net7.0\OOPS.pdb
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\obj\Debug\net7.0\OOPS.csproj.AssemblyReference.cache
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\obj\Debug\net7.0\OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\obj\Debug\net7.0\OOPS.AssemblyInfoInputs.cache
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\obj\Debug\net7.0\OOPS.AssemblyInfo.cs
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\obj\Debug\net7.0\OOPS.csproj.CoreCompileInputs.cache
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\obj\Debug\net7.0\OOPS.dll
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\obj\Debug\net7.0\refint\OOPS.dll
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\obj\Debug\net7.0\OOPS.pdb
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\obj\Debug\net7.0\OOPS.genruntimeconfig.cache
+C:\Users\Neema Khati\Desktop\6th\NCC\OOPS\obj\Debug\net7.0\ref\OOPS.dll
